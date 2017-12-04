@@ -1,7 +1,7 @@
 Package: combiter
 Type: Package
 Title: Combinatorics Iterators
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: c(
   person("Kota", "Mori", email = "kmori05@gmail.com", role = c("aut", "cre"))
   )
@@ -14,12 +14,12 @@ LazyData: TRUE
 LinkingTo: Rcpp
 Imports: iterators, itertools, Rcpp
 RoxygenNote: 6.0.1
-Suggests: combinat, fastmatch, foreach, testthat
+Suggests: combinat, foreach, testthat
 URL: https://github.com/kota7/combiter
 BugReports: https://github.com/kota7/combiter/issues
 NeedsCompilation: yes
-Packaged: 2017-05-26 12:58:38 UTC; kota
+Packaged: 2017-12-04 10:48:57 UTC; kota
 Author: Kota Mori [aut, cre]
 Maintainer: Kota Mori <kmori05@gmail.com>
 Repository: CRAN
-Date/Publication: 2017-05-26 13:29:29 UTC
+Date/Publication: 2017-12-04 12:36:31 UTC
